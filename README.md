@@ -6,13 +6,11 @@ Phần chơi « Ghi nhớ bước chân » trong gameshow Hành Khách cuối c�
 Viết chương trình mô phỏng trò chơi trên, được điều khiển bằng menu với các chức năng tương ứng với từng bước sau. Chú ý là khi mỗi chức năng được thực hiện xong thì chương trình phải quay về menu chính
 1)Tạo ma trận ô màu. Chương trình tạo ra ma trận các ô vuông tương ứng với hình vẽ sau.
 
-
-Xanh	Vàng	Đỏ
-Vàng	Đỏ	Xanh
-Đỏ	Vàng	Xanh
-Xanh	Đỏ	Vàng
-Vàng	Đỏ	Xanh
-
+Xanh Vàng Đỏ
+Vàng Đỏ Xanh
+Màu Vàng Xanh
+Xanh Đỏ Vàng
+Vàng Đỏ Xanh
 
 In ma trận ra màn hình.
 
@@ -23,12 +21,7 @@ Hỏi tên người chơi. Chỉnh tên của người chơi theo đúng quy đ�
 Hỏi màu mà người chơi lựa chọn: 0 – Xanh, 1- Vàng – 2 Đỏ
 Liên tục hỏi ô mà người chơi sẽ đặt chân trên các hàng. Nếu người dùng đặt sai hoặc qua hết 5 hàng thì lưu lại điểm số và chuyển sang người chơi tiếp theo. 
 Khi chơi hết 4 người thì quay về menu
-4)Hiển thị kết quả: In ra bảng kết quả theo thứ tự từng người chơi dưới dạng sau
-Lượt chơi      Người chơi      Màu lựa chọn   Điểm
-1              Hoàng Hùng          Đỏ           2
-2              Vũ Tuấn Anh         Vàng         5
-3               Phạm Hằng          Xanh         1    
-
+4)Hiển thị kết quả: In ra bảng kết quả theo thứ tự từng người chơi theo bảng
 5)In ra người chơi có số điểm cao nhất và thấp nhất.
      
 
