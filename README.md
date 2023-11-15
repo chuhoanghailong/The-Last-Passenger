@@ -26,7 +26,9 @@ Hỏi tên người chơi. Chỉnh tên của người chơi theo đúng quy đ�
 Hỏi màu mà người chơi lựa chọn: 0 – Xanh, 1- Vàng – 2 Đỏ
 Liên tục hỏi ô mà người chơi sẽ đặt chân trên các hàng. Nếu người dùng đặt sai hoặc qua hết 5 hàng thì lưu lại điểm số và chuyển sang người chơi tiếp theo. 
 Khi chơi hết 4 người thì quay về menu
+
 4)Hiển thị kết quả: In ra bảng kết quả theo thứ tự từng người chơi theo bảng
+
 5)In ra người chơi có số điểm cao nhất và thấp nhất.
      
 
